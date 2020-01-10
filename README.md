@@ -2,3 +2,5 @@
 R Studio and Git repository test
 first commit and test to GitHub with R
 dos
+
+remembering how to create a project
